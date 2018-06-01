@@ -1,3 +1,3 @@
 # Jade/Pug Template Engine Notes
 
-This repo details usage of Jade/Pug. It is organized into branches. Each branch contains a specific aspect of the subject matter.
+This repo details usage of Jade/Pug. It consists of a root folder. Each folder contains a specific aspect of the subject matter.
